@@ -1,6 +1,7 @@
 This repository contains the thesis and published papers which were completed for my Master's degree in 2011 and 2012.
 
-Thesis.docx contains the original file for the thesis, **Using Novel Human-Computer Interaction Mechanisms to Enable Dementia Patients' Creativity**
+Thesis.docx contains the original file for the thesis, **Using Novel Human-Computer Interaction Mechanisms to Enable Dementia Patients' Creativity**.
+
 The source code for this project can be downloaded [here](https://github.com/buckning/masters-app)
 
 Note: There are some changes between this version of the thesis and the version that was submitted.
